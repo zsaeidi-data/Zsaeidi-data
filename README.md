@@ -18,6 +18,7 @@ I have an academic background in Applied Mathematics and Computer Science, and I
 - Git and GitHub
 
 🟩 Goals
+
 Building a strong foundation in Data Science and applying mathematical and computational methods to real-world problems.
 
 
