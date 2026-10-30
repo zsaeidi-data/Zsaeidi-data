@@ -1,7 +1,26 @@
 ## Hi , I'm Z.saeidi 👋
-Msc Student in Data Science
 
-I have an academic background in Applied Mathematics and Computer Science, and I am currently developing my knowledge and skills in Data Scienece.
+### MSc Student in Data Science
+
+I have an academic background in Applied Mathematics and Computer Science, and I am currently developing my knowledge and skills in Data Science.
+
+### 🎯 Academic Interests
+- Data Science
+- Machine Learning
+- Statistical Learning
+- Applied Mathematics
+- Data Analysis
+
+### 📚 Currently Learning
+- Python
+- Data Science Algorithms
+- Statistics and Probability
+- Git and GitHub
+
+### 🚀 Goals
+Building a strong foundation in Data Science and applying mathematical and computational methods to real-world problems.
+
+
 
 
 <!--
