@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi , I'm Z.saeidi 👋
+Msc Student in Data Science
+
+I have an academic background in Applied Mathematics and Computer Science, and I am currently developing my knowledge and skills in Data Scienece.
+
 
 <!--
 **zsaeidi-data/Zsaeidi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
